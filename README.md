@@ -6,8 +6,8 @@ The goal of this project is to investigate Locality-sensitive Hashing (LSH) fram
 
 ### Datasets
 
-"cora_all.csv" includes all the documents.  
-"cora_query.csv" includes seven query documents.
+"cora_all" includes all the documents.  
+"cora_query" includes seven query documents.
 
 ### Tasks
 
